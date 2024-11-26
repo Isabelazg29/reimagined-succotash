@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\pulpo-mejorado-main\\glamping_addventure2\\views\\habitacions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\habitacions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\pulpo-mejorado-main\\glamping_addventure2\\views\\habitacions\\_deletepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\habitacions\\_deletepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\pulpo-mejorado-main\\glamping_addventure2\\controllers\\habitacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\controllers\\habitacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\pulpo-mejorado-main\\glamping_addventure2\\models\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\models\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\pulpo-mejorado-main\\glamping_addventure2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\pulpo-mejorado-main\\glamping_addventure2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\pulpo-mejorado-main\\glamping_addventure2\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\pulpo-mejorado-main\\glamping_addventure2\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\pulpo-mejorado-main\\glamping_addventure2\\models\\glampingaddventurecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\models\\glampingaddventurecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_DeletePartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Views\\Habitacions\\_DeletePartial.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Habitacions\\_DeletePartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Views\\Habitacions\\_DeletePartial.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Habitacions\\_DeletePartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T21:07:38.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HabitacionsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Controllers\\HabitacionsController.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Controllers\\HabitacionsController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Controllers\\HabitacionsController.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Controllers\\HabitacionsController.cs",
+              "ViewState": "AQIAAFIBAAAAAAAAAAAAAGUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:06:26.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Models\\Habitacion.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Models\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Models\\Habitacion.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Models\\Habitacion.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:07:55.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Program.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Program.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:07:33.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJ8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T19:56:24.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Views\\Habitacions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Habitacions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Views\\Habitacions\\Index.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Habitacions\\Index.cshtml",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAMcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T19:51:17.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:58:45.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:11:51.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GlampingAddventureContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Models\\GlampingAddventureContext.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Models\\GlampingAddventureContext.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\pulpo-mejorado-main\\Glamping_Addventure2\\Models\\GlampingAddventureContext.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Models\\GlampingAddventureContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:40:36.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
